@@ -1,0 +1,10 @@
+When is Halleys comet expected to return?, 2026, 2076, 2119, 2061, 4
+What was the earth's second moon called?, 2018 PT5, 2017 PT5, 2024 PT5, 2950 PT5, 3
+Is there a pink planet in our galaxy?, No, Yes, Maybe, Not sure, 2
+Which planet in our solar system spins clockwise?, Venus, Earth, Mercury, Jupiter, 1
+How long does mercury take to orbit the sun?, 6 months, 3 months, 5 months, 1 month, 2
+How many telescopes did it take to capture an image of a black hole?, 1, None, 6, 8, 4
+What color are mars’ sunsets?, Blue, Red, Yellow, Orange, 1
+Which planet rains rubies?, Uranus, Jupiter, WASP-121b, Saturn, 3
+How old is the universe (to the nearest billion)?, 12B, 14B, 11B, 13B, 2
+What is the most distant dwarf planet?, Pluto, Ceres, Eris, Makemake, 3
